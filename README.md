@@ -2,7 +2,7 @@
 
 This is a program that simulates a 3x3 Rubik's cube in the terminal
 
-# Installation
+# Download and Run the program
 
 enter the following in the terminal:
 ```
